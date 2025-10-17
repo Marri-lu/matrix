@@ -1,0 +1,10 @@
+*.o
+*.a
+*.out
+*.exe
+*.so
+*.dll
+*.log
+*.tmp
+*.swp
+lab1
